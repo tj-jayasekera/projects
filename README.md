@@ -21,6 +21,7 @@ A lifecycle-driven evaluation of Olist’s seller acquisition channels, measurin
 
 ### 🔹 City of Melbourne – Automated CX Dashboard  
 Power BI • Databricks • SQL  
+
 Replaced manual Excel reporting with automated cross-department dashboards.
 
 ➡️ [View Project](./city-of-melbourne-dashboard)
