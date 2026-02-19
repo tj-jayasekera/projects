@@ -1,6 +1,6 @@
 # 📊 My Data Portfolio
 
-Welcome to my analytics portfolio.
+Welcome to my analytics portfolio! This is a collection of all my recent projects in data.
 
 ---
 
