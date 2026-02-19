@@ -1,6 +1,6 @@
 # 📊 My Data Portfolio
 
-Welcome to my analytics portfolio - a collection of projects spanning SQL analytics, business intelligence, and data modelling.
+Welcome to my analytics portfolio! This is a collection of projects spanning SQL analytics, business intelligence, and data modelling.
 
 ---
 
