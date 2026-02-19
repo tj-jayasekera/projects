@@ -10,7 +10,7 @@ Welcome to my analytics portfolio.
 Power BI • Databricks • SQL  
 Replaced manual Excel reporting with automated cross-department dashboards.
 
-➡️ [View Project Details](./city-of-melbourne-dashboard)
+➡️ [View Project](./city-of-melbourne-dashboard)
 
 ---
 
@@ -20,6 +20,6 @@ Replaced manual Excel reporting with automated cross-department dashboards.
 SQL • Tableau  
 Channel efficiency, activation modelling, lifecycle breakdown.
 
-➡️ [View Project Details](./seller-acquisition-analysis)
+➡️ [View Project](./seller-acquisition-analysis)
 
 ---
