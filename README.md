@@ -20,6 +20,6 @@ Replaced manual Excel reporting with automated cross-department dashboards.
 SQL • Tableau  
 Channel efficiency, activation modelling, lifecycle breakdown.
 
-➡️ [View Project](./seller-acquisition-analysis)
+➡️ [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main)
 
 ---
