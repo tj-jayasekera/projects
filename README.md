@@ -24,7 +24,7 @@ Welcome to my analytics portfolio — a collection of projects spanning SQL anal
   | Project | Tools | Description | Dashboard |
 |----------|--------|-------------|------|
 | 🔹 **City of Melbourne – Automated CX Dashboard** | Power BI • Databricks • SQL | Replaced manual Excel reporting with automated, cross-department dashboards delivering real-time customer experience and marketing insights. | [View Dashboard](./city-of-melbourne-dashboard) |
-| 🔹 [**Seller Acquisition Strategy Dashboard**](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | Tableau • SQL | Interactive dashboard analysing acquisition channel performance across revenue, activation, lifecycle timing, and seller quality metrics. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist) |
+| 🔹 [**Seller Acquisition Strategy Dashboard**](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | Tableau • SQL | Interactive dashboard analysing acquisition channel performance across revenue, activation, lifecycle timing, and seller quality metrics. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist/AcquisitionStrategyandPerformanceDashboard) |
 | 🔹 **Crops in Australia – Agriculture & Climate Analysis** | Tableau • SQL | University visual analytics project exploring crop production trends and the relationship between regional weather conditions and agricultural yield. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) |
 
 ---
