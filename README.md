@@ -4,7 +4,7 @@ Welcome to my analytics portfolio - a collection of projects spanning SQL analyt
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [🧠 SQL Projects](#-sql-projects)
 - [📊 Dashboards & Visual Analytics](#-dashboards--visual-analytics)
@@ -15,13 +15,13 @@ Welcome to my analytics portfolio - a collection of projects spanning SQL analyt
 
 | Project | Tools | Description | Link |
 |----------|--------|-------------|------|
-| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. I approached this project as a business case, using SQL for **data analysis** and **modelling**, and Tableau for **data visualisation** to find insights and provide a strategic recommendation. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
 
 ---
 
 ## 📊 Dashboards & Visual Analytics
 
-  | Project | Tools | Description | Dashboard |
+  | Project | Visualisation Tool | Description | Dashboard |
 |----------|--------|-------------|------|
 | 🏛️ City of Melbourne – Automated CX Dashboard | Power BI | Replaced manual Excel reporting with automated, cross-department dashboards delivering real-time customer experience and marketing insights. | [View Dashboard](./city-of-melbourne-dashboard) |
 | 📈 [Seller Acquisition Strategy Dashboard](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | Tableau | Interactive dashboard analysing acquisition channel performance across revenue, activation, lifecycle timing, and seller quality metrics. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist/AcquisitionStrategyandPerformanceDashboard) |
