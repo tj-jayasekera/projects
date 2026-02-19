@@ -15,17 +15,17 @@ Welcome to my analytics portfolio — a collection of projects spanning SQL anal
 
 | Project | Tools | Description | Link |
 |----------|--------|-------------|------|
-| 🔹 **Seller Acquisition Strategy Analysis** | SQL • Tableau | Lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+| 🔹 [**Seller Acquisition Strategy Analysis**](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
 
 ---
 
 ## 📊 Dashboards & Visual Analytics
 
-| Project | Tools | Description | Link |
+  | Project | Tools | Description | Dashboard |
 |----------|--------|-------------|------|
-| 🔹 **City of Melbourne – Automated CX Dashboard** | Power BI • Databricks • SQL | Replaced manual Excel reporting with automated, cross-department dashboards delivering real-time customer experience and marketing insights. | [View Project](./city-of-melbourne-dashboard) |
-| 🔹 **Seller Acquisition Strategy Dashboard** | Tableau • SQL | Interactive dashboard analysing acquisition channel performance across revenue, activation, lifecycle timing, and seller quality metrics. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
-| 🔹 **Crops in Australia – Agriculture & Climate Analysis** | Tableau • SQL | University visual analytics project exploring crop production trends and the relationship between regional weather conditions and agricultural yield. | [View Project](https://github.com/tj-jayasekera/crops-in-australia/tree/main) |
+| 🔹 **City of Melbourne – Automated CX Dashboard** | Power BI • Databricks • SQL | Replaced manual Excel reporting with automated, cross-department dashboards delivering real-time customer experience and marketing insights. | [View Dashboard](./city-of-melbourne-dashboard) |
+| 🔹 [**Seller Acquisition Strategy Dashboard**](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | Tableau • SQL | Interactive dashboard analysing acquisition channel performance across revenue, activation, lifecycle timing, and seller quality metrics. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist) |
+| 🔹 **Crops in Australia – Agriculture & Climate Analysis** | Tableau • SQL | University visual analytics project exploring crop production trends and the relationship between regional weather conditions and agricultural yield. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) |
 
 ---
 
