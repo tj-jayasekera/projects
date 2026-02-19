@@ -4,16 +4,6 @@ Welcome to my analytics portfolio! This is a collection of all my recent project
 
 ---
 
-## 📊 Business Intelligence
-
-### 🔹 City of Melbourne – Automated CX Dashboard  
-Power BI • Databricks • SQL  
-Replaced manual Excel reporting with automated cross-department dashboards.
-
-➡️ [View Project](./city-of-melbourne-dashboard)
-
----
-
 ## 🧠 SQL Analytics
 
 ### 🔹 Seller Acquisition Strategy Analysis  
@@ -21,5 +11,15 @@ SQL • Tableau
 Channel efficiency, activation modelling, lifecycle breakdown.
 
 ➡️ [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main)
+
+---
+
+## 📊 Business Intelligence
+
+### 🔹 City of Melbourne – Automated CX Dashboard  
+Power BI • Databricks • SQL  
+Replaced manual Excel reporting with automated cross-department dashboards.
+
+➡️ [View Project](./city-of-melbourne-dashboard)
 
 ---
