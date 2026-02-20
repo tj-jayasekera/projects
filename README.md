@@ -38,6 +38,3 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 | 🧪 [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) | R | Data wrangling • Feature engineering • Regression modelling • Heirarchical clustering  | A large-scale behavioural data analysis (40k+ records) integrating multi-source socio-economic datasets to model country-level predictors of pro-social behaviour during the COVID-19 pandemic using regression, hypothesis testing, and hierarchical clustering. | [View Project](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) |
 
 
-## 📸 Featured Dashboard Preview
-
-<img width="700" src="https://github.com/user-attachments/assets/0545aca3-3157-4ad6-8e78-ded24878a287" />
