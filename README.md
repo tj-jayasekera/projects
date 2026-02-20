@@ -15,8 +15,8 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 ## 🧠 SQL Projects
 
 | Project | Tools | Core Work | Description | Link |
-|----------|--------|-------------|------|
-| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Data analysis and transformation • Data visualisation | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. I approached this project as a business case, using SQL for data analysis and modelling, and Tableau for data visualisation to find insights and provide a strategic recommendation. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+|----------|--------|-------------|-------------|------|
+| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Data analysis & transformation • Funnel modelling • KPI design • Data visualisation | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. Approached as a structured business case using SQL for modelling and Tableau for visualisation to deliver strategic recommendations. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
 
 ---
 
@@ -31,6 +31,11 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 ---
 
 ## Statistical Modelling
+
+| Project | Tools | Core Work | Description | Link |
+|----------|--------|-------------|-------------|------|
+| 🧪 [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | R | Data wrangling • Multi-source data integration • Regression Modelling • Heirarchical clustering | A large-scale behavioural data analysis (40k+ records) integrating multi-source socio-economic datasets to model country-level predictors of pro-social behaviour during the COVID-19 pandemic using regression, hypothesis testing, and hierarchical clustering. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+
 
 ## 📸 Featured Dashboard Preview
 
