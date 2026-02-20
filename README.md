@@ -8,6 +8,7 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 
 - [🧠 SQL Projects](#-sql-projects)
 - [📊 Dashboards & Visual Analytics](#-dashboards--visual-analytics)
+- [Statistical Modelling](#statistical-modelling)
 
 ---
 
@@ -28,6 +29,8 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 | 🌾 [Crops in Australia – Agriculture & Climate Analysis](https://github.com/tj-jayasekera/crops-in-australia) | Tableau | University visual analytics project exploring crop production trends and the relationship between regional weather conditions and agricultural yield. | [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) |
 
 ---
+
+## Statistical Modelling
 
 ## 📸 Featured Dashboard Preview
 
