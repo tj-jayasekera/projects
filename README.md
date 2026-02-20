@@ -8,7 +8,7 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 
 - [🧠 SQL Projects](#-sql-projects)
 - [📊 Dashboards & Visual Analytics](#-dashboards--visual-analytics)
-- [Statistical Modelling](#statistical-modelling)
+- [📐 Statistical Modelling](#-statistical-modelling)
 
 ---
 
@@ -30,11 +30,11 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 
 ---
 
-## Statistical Modelling
+## 📐 Statistical Modelling
 
 | Project | Tools | Core Work | Description | Link |
 |----------|--------|-------------|-------------|------|
-| 🧪 [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | R | Data wrangling • Multi-source data integration • Regression Modelling • Heirarchical clustering | A large-scale behavioural data analysis (40k+ records) integrating multi-source socio-economic datasets to model country-level predictors of pro-social behaviour during the COVID-19 pandemic using regression, hypothesis testing, and hierarchical clustering. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+| 🧪 [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | R | Data wrangling • Feature engineering • Regression modelling • Heirarchical clustering  | A large-scale behavioural data analysis (40k+ records) integrating multi-source socio-economic datasets to model country-level predictors of pro-social behaviour during the COVID-19 pandemic using regression, hypothesis testing, and hierarchical clustering. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
 
 
 ## 📸 Featured Dashboard Preview
