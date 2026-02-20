@@ -6,17 +6,18 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 
 ## Table of Contents
 
-- [🧠 SQL Projects](#-sql-projects)
+- [🧠 Data Engineering and SQL](#-data-engineering-and-sql)
 - [📊 Dashboards & Visual Analytics](#-dashboards--visual-analytics)
 - [📐 Statistical Modelling](#-statistical-modelling)
 
 ---
 
-## 🧠 SQL Projects
+## 🧠 Data Engineering and SQL
 
 | Project | Tools | Core Work | Description | Link |
 |----------|--------|-------------|-------------|------|
 | 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Data analysis & transformation • Funnel modelling • KPI design • Data visualisation | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. Approached as a structured business case using SQL for modelling and Tableau for visualisation to deliver strategic recommendations. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+|🏛️ [City of Melbourne – Customer Intelligence Dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard) | Power BI • Databricks • SQL • NLP | Data modelling • Layered architecture (Silver/Gold) • AI-driven NLP integration • Dashboard engineering | Designed and deployed a customer intelligence dashboard consolidating survey and call-centre data. Built scalable SQL transformations in Databricks and integrated AI-driven sentiment and topic classification. | [View Project](https://github.com/tj-jayasekera/customer-insights-dashboard) |
 
 ---
 
