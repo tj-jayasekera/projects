@@ -14,9 +14,9 @@ Welcome to my analytics portfolio! This is a collection of projects spanning SQL
 
 ## 🧠 SQL Projects
 
-| Project | Tools | Description | Link |
+| Project | Tools | Core Work | Description | Link |
 |----------|--------|-------------|------|
-| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. I approached this project as a business case, using SQL for **data analysis** and **modelling**, and Tableau for **data visualisation** to find insights and provide a strategic recommendation. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
+| 📈 [Seller Acquisition Strategy Analysis](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) | SQL • Tableau | Data analysis and transformation • Data visualisation | A lifecycle-driven evaluation of Olist’s seller acquisition channels measuring revenue scale, activation efficiency, lifecycle speed, and customer experience from lead to first sale. I approached this project as a business case, using SQL for data analysis and modelling, and Tableau for data visualisation to find insights and provide a strategic recommendation. | [View Project](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/tree/main) |
 
 ---
 
