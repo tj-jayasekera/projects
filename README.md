@@ -17,7 +17,7 @@ Welcome to my analytics and AI portfolio! This is a collection of projects spann
 
 | Project | Tools | Core Work | Description | Link |
 |----------|--------|-------------|-------------|------|
-| 🧪 [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) | Python • Gemini • ChromaDB • Streamlit | Retrieval-Augmented Generation • Semantic Search • Vector Embeddings • RAG Evaluation  | An end-to-end RAG travel assistant built on 23 curated Fiji travel sources, combining semantic retrieval with Gemini to generate grounded answers. Evaluated retrieval across multiple embedding models and Top-K configurations, with dedicated testing for answer quality and hallucination-safe abstention. | [View Project](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) |
+| ✈️ [COVID-19 Pro-Social Behaviour Analysis](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) | Python • Gemini • ChromaDB • Streamlit | Retrieval-Augmented Generation • Semantic Search • Vector Embeddings • RAG Evaluation  | An end-to-end RAG travel assistant built on 23 curated Fiji travel sources, combining semantic retrieval with Gemini to generate grounded answers. Evaluated retrieval across multiple embedding models and Top-K configurations, with dedicated testing for answer quality and hallucination-safe abstention. | [View Project](https://github.com/tj-jayasekera/pro-social-behaviour-analysis) |
 
 ---
 
